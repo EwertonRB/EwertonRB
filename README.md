@@ -1,12 +1,10 @@
 
-   # <p align="center">Hi, I'm Ewerton! 🙋‍♂️ <br> Full Stack Developer.</p>
+   # <p align="center">Hi, I'm Ewerton! 🙋‍♂️ </p>
   
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/50932251/121759888-4dc21100-cafe-11eb-82e1-0f04f6db6c16.jpg"/>
 </p>
-
-## <p align="center"> Co-founder of Digitaê Digital Solutions.</p>
 
 ### 🛠 &nbsp;Tech Stack
 
