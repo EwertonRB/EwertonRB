@@ -23,9 +23,7 @@
 
 ## <p align="center">A little about myself</p>
 
-👨‍💼 I currently work at Digitaê digital solutions, a company founded by me and a friend.
-
-👨‍🎓 I'm taking the last semester of Systems Analysis and Development.
+👨‍💼 I was graduated in 2022 in systems analysis.
 
 🦾 I am always looking to learn and develop new skills.
 
