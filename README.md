@@ -23,11 +23,11 @@
 
 ## <p align="center">A little about myself</p>
 
-👨‍💼 I was graduated in 2022 in systems analysis.
+👨‍💼 I graduated in systems analysis and development in 2022.
 
-🦾 I am always looking to learn and develop new skills.
+🦾 I'm always looking to learn and develop new skills.
 
-🤘 Let's talk about innovation and new technologies that can change the world
+🤘 Let's talk about innovation and new technologies that can change the world.
 
 
 ## <p align= "center"> Where You can find me:</p>
