@@ -9,6 +9,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-05122A??style=flat&logo=java&logoColor=white)&nbsp;
+![Wordpress](https://img.shields.io/badge/wordpress-05122A??style=flat&logo=wordpress&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js&logoColor=white)&nbsp;
@@ -28,6 +29,8 @@
 🦾 I'm always looking to learn and develop new skills.
 
 🤘 Let's talk about innovation and new technologies that can change the world.
+
+📌 I´m Living in Australia now.
 
 
 ## <p align= "center"> Where You can find me:</p>
@@ -51,6 +54,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
